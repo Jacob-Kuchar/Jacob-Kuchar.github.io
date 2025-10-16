@@ -1,5 +1,6 @@
 # Jacob-Kuchar.github.io
 Personal Portfolio 
+
 ⭐ Highlights
 
 Features a range of professional writing samples, including reports, guides, presentations, and revised drafts.
